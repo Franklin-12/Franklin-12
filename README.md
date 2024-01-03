@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Franklin-12
-- 👀 I’m interested in gaming an coding.
+- 👀 I’m interested in gaming and coding.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
